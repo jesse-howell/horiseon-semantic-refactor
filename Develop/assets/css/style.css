@@ -45,7 +45,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-/* Added hover background color darkgray to nav text. */
+/* Added a:hover background-color darkgray. */
 a:hover {
     background-color: darkgray;
 }
