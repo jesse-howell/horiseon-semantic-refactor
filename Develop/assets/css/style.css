@@ -109,9 +109,7 @@ p {
     max-width: 150px;
 }
 /* DRY margin-bottom entries */
-.search-engine-optimization, 
-.online-reputation-management,
-.social-media-marketing {
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -120,15 +118,11 @@ p {
     color: #ffffff;
 }
 /* DRY max-height */
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing img {
+.services img {
     max-height: 200px;
 }
 /* DRY h2 margin-bottom and font-size */
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
