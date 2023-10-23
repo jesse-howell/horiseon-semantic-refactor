@@ -61,15 +61,11 @@ p {
     background-size: cover;
     background-position: center;
 }
-
-.float-left {
+/* DRY .float */
+.float-left,
+.float-right {
     float: left;
     margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .content {
