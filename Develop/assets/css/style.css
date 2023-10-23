@@ -116,15 +116,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
+/* DRY max-height */
+.search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing img {
     max-height: 200px;
 }
