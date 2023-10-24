@@ -4,4 +4,4 @@ A user from a marketing agency would like their website's code refactored to mee
 # Screenshot
 ![Horiseon Screenshot](Develop/assets/images/Horiseon-SEO-Branding-and-Marketing-Consulting-Services.png)
 
-[Live Link](https://jesse-howell.github.io/horiseon-semantic-refactor/)
+[Live URL](https://jesse-howell.github.io/horiseon-semantic-refactor/)
