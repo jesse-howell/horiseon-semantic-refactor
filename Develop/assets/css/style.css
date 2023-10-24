@@ -14,21 +14,21 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
+/* Changed .header class children to header elements. */
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 /* Added hover for .header h1 */
-.header h1:hover {
+header h1:hover {
     background-color: darkgray;
 }
 /* Changed .header div to .header nav */
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,11 +36,11 @@ header {
     font-size: 20px;
 }
 /* Changed .header div ul to .header nav ul */
-.header nav ul {
+header nav ul {
     list-style-type: none;
 }
 /* Changed .header div ul li to .header nav ul li */
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
